@@ -13,4 +13,3 @@ I performed certain statistical analysis to know my dataset and understand it ve
 * Number 7 max       180.000000
 ### EDA (Exploratory Data Analysis)
 #### Univariate Analysis
-image src ="
